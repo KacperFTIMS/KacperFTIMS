@@ -26,7 +26,7 @@ I build backend web applications, write automated tests, and work on machine lea
   Spring Boot backend features for a language learning app, including AI-powered contextual sentence generation and a two-person conversation translator.
 * **[GymApp](https://github.com/stejzy/GymApp)** *(Team project)*  
   Unit tests, database/auth integration tests, Cucumber BDD scenarios, and an isolated Spring Boot test profile backed by an in-memory H2 database.
-* **[BuyReleaseProduct](https://github.com/KacperFTIMS/BuyReleaseProduct)** *(Private repo / Personal project)*  
+* **BuyReleaseProduct** *(Private repo / Personal project)*  
   Python and Playwright browser automation script monitoring product stock availability using persistent authenticated browser sessions.
 
 ---
